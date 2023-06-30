@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 int addi(char *n2, char *r, int, int, int, int);
 
